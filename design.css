@@ -1,0 +1,21 @@
+#imgset
+{
+ width: 500px;
+ height: 350px;
+ border: 0.01rem solid black;
+}
+button {
+  background-color: #2ee61e;
+  width: 4rem;
+  height: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;   
+  color: white;
+  padding: 1rem;
+  border: none;
+  border-radius: 0.2rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
